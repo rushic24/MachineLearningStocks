@@ -1,3 +1,9 @@
+'''
+This file downloads all HTML files at _KeyStats directory. It then parses those files to create csv in forward()
+
+*********************************DEPRECATED********************************************
+'''
+
 import pandas as pd
 import os
 import re
